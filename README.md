@@ -48,9 +48,9 @@ tic-tac-toe/
 └── README.md         # This file
 
 Screenshot
- ![Initial Game Board](./initial.jpeg)
- ![Player X Wins](./x-win.jpeg)
-
+ ![Initial Game Board](./initial.png)
+ ![Player X Wins](x-win.png)
+ ![it's draw](./draw.png)
 
 
 License

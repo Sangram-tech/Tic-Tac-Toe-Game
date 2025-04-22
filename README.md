@@ -49,11 +49,12 @@ tic-tac-toe/
 
 Screenshot
 
-Initial Game Board
+Initial Game Board ![Initial Game Board](./initial.jpeg)
 
 
 
 Player X Wins
+![Player X Wins](./x-win.jpeg)
 
 
 

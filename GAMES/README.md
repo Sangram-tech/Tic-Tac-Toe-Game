@@ -1,8 +1,8 @@
-Tic-Tac-Toe Game
+## Tic-Tac-Toe Game
 
 This is a simple web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-Features
+## Features
 
 Two-player game (Player X and Player O)
 
@@ -13,7 +13,7 @@ Click-to-play interface
 Restart button to play again
 
 
-How to Use
+## How to Use
 
 1. Download or Clone the Repository
 
@@ -39,7 +39,7 @@ Click "Restart Game" to play again.
 
 
 
-File Structure
+## File Structure
 
 tic-tac-toe/
 ├── index.html        # Main HTML file
@@ -47,13 +47,13 @@ tic-tac-toe/
 ├── script.js         # (Optional if JS is separated)
 └── README.md         # This file
 
-Screenshot
+## Screenshot
  ![Initial Game Board](./initial.png)
  ![Player X Wins](x-win.png)
  ![it's draw](./draw.png)
 
 
-License
+# License
 
 This project is open-source and free to use under the MIT License.
 

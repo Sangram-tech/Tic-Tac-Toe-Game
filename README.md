@@ -48,13 +48,8 @@ tic-tac-toe/
 └── README.md         # This file
 
 Screenshot
-
-Initial Game Board ![Initial Game Board](./initial.jpeg)
-
-
-
-Player X Wins
-![Player X Wins](./x-win.jpeg)
+ ![Initial Game Board](./initial.jpeg)
+ ![Player X Wins](./x-win.jpeg)
 
 
 

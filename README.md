@@ -5,7 +5,7 @@ This is a simple web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-> 💻 **[👉 Click here to run the app instantly](https://sangram-tech.github.io/TODO-APP/
+> 💻 **[👉 Click here to run the app instantly](https://sangram-tech.github.io/Tic-Tac-Toe-Game/
 )**  
 > *(Replace this link with your real GitHub Pages or CodePen URL)*
 
